@@ -1,5 +1,5 @@
 # MobilePhone
-MobilePhone is a UK-based resource for FiveM by Albo1125 that provides mobile phone animation and observation functionality for drivers.
+MobilePhone is a UK-based resource for FiveM by Albo1125 that provides mobile phone animation and observation functionality for drivers. It is available at [https://github.com/Albo1125/MobilePhone](https://github.com/Albo1125/MobilePhone)
 
 ## Installation & Usage
 1. Download the latest release.
